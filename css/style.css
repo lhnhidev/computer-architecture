@@ -39,6 +39,16 @@ body {
     margin: 25px;
 }
 
+.wrapper__btn {
+    padding: 5px 12px;
+    font-size: 1.6rem;
+}
+
+.wrapper__answer-title {
+    font-size: 1.6rem;
+
+}
+
 .wrapper__answer-title {
     margin-left: 25px;
 }
@@ -47,7 +57,7 @@ body {
     padding: 10px;
     border: 1px solid #242424;
     border-radius: 5px;
-    margin: 25px;
+    margin: 10px 25px;
     padding: 30px;
     width: 900px;
     min-height: 300px;
